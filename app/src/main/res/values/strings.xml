@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawerLayoutDemo</string>
+    <string name="login">个人登陆页面</string>
+</resources>
